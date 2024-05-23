@@ -9,7 +9,7 @@ import flixel.ui.FlxButton;
 
 import flixel.util.FlxDestroyUtil;
 import flixel.util.FlxStringUtil;
-impprt flixel.util.FlxTimer;
+import flixel.util.FlxTimer;
 import flixel.addons.ui.FlxUIGroup;
 import flixel.addons.ui.FlxUIText;
 import flixel.addons.ui.FlxUIButton;
