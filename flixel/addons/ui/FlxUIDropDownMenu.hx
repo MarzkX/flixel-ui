@@ -9,7 +9,6 @@ import flixel.ui.FlxButton;
 
 import flixel.util.FlxDestroyUtil;
 import flixel.util.FlxStringUtil;
-import flixel.util.FlxTimer;
 import flixel.addons.ui.FlxUIGroup;
 import flixel.addons.ui.FlxUIText;
 import flixel.addons.ui.FlxUIButton;
@@ -18,6 +17,9 @@ import flixel.addons.ui.FlxUI9SliceSprite;
 import flixel.addons.ui.FlxUIAssets;
 import flixel.addons.ui.StrNameLabel;
 import flixel.addons.ui.FlxUI;
+import flixel.util.FlxColor;
+import flixel.util.FlxTimer;
+import flixel.math.FlxPoint;
 
 
 /*
